@@ -1,6 +1,16 @@
 ![http://landenlabs.com/console/llwatch/llwatch64.png](http://landenlabs.com/console/llwatch/llwatch64.png) 
-#LLWatch
+# LLWatch
 Windows / DOS   Watch program execution similar to unix / linux watch command
+
+
+## &#x1F534;
+```diff
+- Project has moved back to LanDenLabs GitHub, follow link for latest updates.
+``` 
+&#x1F534; https://github.com/landenlabs
+
+## ====== Following is no longer updated ======
+
 
 LLWatch repeats execution of a DOS command and monitors its console output.
 Optionally homing the cusor and highlighting changes. 
